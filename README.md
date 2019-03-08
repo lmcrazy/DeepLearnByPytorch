@@ -1,3 +1,6 @@
 # DeepLearnByPytorch
 对Pytorch进行总结
-1.CNN·
+
+动量理解为一种惯性作用，每次更新的服务都回比不加动量的情况更多。
+
+                                  
